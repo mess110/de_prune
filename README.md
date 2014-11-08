@@ -1,6 +1,6 @@
 # DePrune
 
-TODO: Write a gem description
+    ruby -Ilib ./bin/de_prune
 
 ## Installation
 
